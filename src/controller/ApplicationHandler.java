@@ -8,7 +8,7 @@ import view.View;
 public class ApplicationHandler {
 
     public static void main(String[] args) {
-        View view = new View();
+        view.View view = new view.View();
     }
 
 }
